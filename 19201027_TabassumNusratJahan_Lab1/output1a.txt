@@ -1,0 +1,5 @@
+10is a even number
+19is an odd number
+7is an odd number
+3is an odd number
+100is a even number
